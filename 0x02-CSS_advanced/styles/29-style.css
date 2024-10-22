@@ -194,7 +194,7 @@ a:active {
 }
 
 .nav .nav-link:hover {
-    color: var(--color-white);
+    color: var(--nav-item-link-hover);
 }
 
 ul.row {
